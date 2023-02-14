@@ -1,0 +1,8 @@
+<suite name = "Suite">
+    <test name="test">
+        <classes>
+
+            <class name = "test.TC_PIMTest"></class>
+        </classes>
+    </test>
+</suite>
